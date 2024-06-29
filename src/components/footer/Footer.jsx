@@ -20,7 +20,7 @@ const Footer = () => {
                 <div className="footer__content__menus">
                     <div className="footer__content__menu">
                         <Link to="/">Home</Link>
-                        <Link to="/">Contact us</Link>
+                        <a href="https://notion-one-jade.vercel.app/contact" target='_blank'>Contact us</a>
 
                     </div>
                     <div className="footer__content__menu">
